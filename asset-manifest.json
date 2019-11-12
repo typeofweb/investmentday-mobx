@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/investmentday-mobx/static/css/main.3ec3f507.chunk.css",
+    "main.js": "/investmentday-mobx/static/js/main.00fcb455.chunk.js",
+    "main.js.map": "/investmentday-mobx/static/js/main.00fcb455.chunk.js.map",
+    "runtime-main.js": "/investmentday-mobx/static/js/runtime-main.a894623f.js",
+    "runtime-main.js.map": "/investmentday-mobx/static/js/runtime-main.a894623f.js.map",
+    "static/js/2.5f8d21ac.chunk.js": "/investmentday-mobx/static/js/2.5f8d21ac.chunk.js",
+    "static/js/2.5f8d21ac.chunk.js.map": "/investmentday-mobx/static/js/2.5f8d21ac.chunk.js.map",
+    "index.html": "/investmentday-mobx/index.html",
+    "precache-manifest.60c39e8cc4e4518031f0c1c3b32b8465.js": "/investmentday-mobx/precache-manifest.60c39e8cc4e4518031f0c1c3b32b8465.js",
+    "service-worker.js": "/investmentday-mobx/service-worker.js",
+    "static/css/main.3ec3f507.chunk.css.map": "/investmentday-mobx/static/css/main.3ec3f507.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a894623f.js",
+    "static/js/2.5f8d21ac.chunk.js",
+    "static/css/main.3ec3f507.chunk.css",
+    "static/js/main.00fcb455.chunk.js"
+  ]
+}
